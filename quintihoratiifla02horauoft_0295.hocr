@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quintihoratiifla02horauoft/quintihoratiifla02horauoft_0295.png"; bbox 0 0 1737 3054; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 443 1054 1243 1118">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 443 1054 1243 1118">
+     <span class='ocr_line' id='line_1_1' title="bbox 443 1054 1243 1118; baseline 0.003 -16"><span class='ocrx_word' id='word_1_1' title='bbox 443 1055 513 1118; x_wconf 77' lang='lat' dir='ltr'><strong>Q.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 569 1054 904 1103; x_wconf 70' lang='lat' dir='ltr'><strong>HossA‘ru</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 960 1055 1243 1104; x_wconf 77' lang='lat' dir='ltr'><strong>FLAcm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 253 1235 1433 1309">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 253 1235 1433 1309">
+     <span class='ocr_line' id='line_1_2' title="bbox 253 1235 1433 1309; baseline -0.001 -3"><span class='ocrx_word' id='word_1_4' title='bbox 253 1235 1433 1309; x_wconf 79' lang='lat' dir='ltr'>CARMINUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 518 1442 1181 1508">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 518 1442 1181 1508">
+     <span class='ocr_line' id='line_1_3' title="bbox 518 1442 1181 1508; baseline -0.003 -20"><span class='ocrx_word' id='word_1_5' title='bbox 518 1445 742 1489; x_wconf 84' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_6' title='bbox 801 1442 1181 1508; x_wconf 72' lang='lat' dir='ltr'><strong>QUARTus.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 1806 79 3054">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 1806 79 3054">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 1806 79 3054; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 1806 79 3054; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
